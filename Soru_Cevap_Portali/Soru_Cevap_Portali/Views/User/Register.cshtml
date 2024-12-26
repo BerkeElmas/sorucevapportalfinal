@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Register";
+
+}
+@model RegisterModel
+
+<!-- Custom styles for this template-->
+<link href="css/sb-admin-2.min.css" rel="stylesheet">
+<div class="container my-5">
+    <div class="card shadow-lg border-0">
+        <div class="row g-0">
+            <!-- Left Image Section -->
+            <div class="col-lg-7 d-flex justify-content-center align-items-center">
+                <!-- Burada resmin taşmasını engellemek için "overflow-hidden" ve "h-100" ekledik -->
+                <div class="h-100 w-100 overflow-hidden">
+                    <img class="img-fluid w-100 h-100 object-cover" src="~/Photos/backgroundRegister.jpeg" alt="Background Photos">
+                </div>
+            </div>
+
+            <!-- Form Section -->
+            <div class="col-lg-5">
+                <div class="p-5">
+                    <h1 class="h4 text-center text-primary mb-4">Hesap Oluştur!</h1>
+
+                    <form action="Register" method="post">
+                        <!-- Name Input Fields -->
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" asp-for="FirstName" placeholder="First Name" required>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" asp-for="LastName" placeholder="Last Name" required>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" asp-for="UserName" placeholder="UserName" required>
+                        </div>
+
+                        <!-- Email Field -->
+                        <div class="mb-3">
+                            <input type="email" class="form-control" asp-for="Email" placeholder="Email Address" required>
+                        </div>
+
+                        <!-- Password Fields -->
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <input type="password" class="form-control" value="Abc.123" asp-for="Password" placeholder="Password" required>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="password" class="form-control" value="Abc.123" asp-for="PasswordConfirm" placeholder="Repeat Password" required>
+                            </div>
+                        </div>
+
+                        <!-- Register Button -->
+                        <div class="d-grid mb-3">
+                            <button type="submit" class="btn btn-primary">Hesap Oluştur</button>
+                        </div>
+
+                    </form>
+
+                    <hr>
+
+                    <!-- Links -->
+                    
+                    <div class="text-center mt-2">
+                        <a href="/User/Login" class="small">Zaten bir hesabın var mı? Giriş Yap!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

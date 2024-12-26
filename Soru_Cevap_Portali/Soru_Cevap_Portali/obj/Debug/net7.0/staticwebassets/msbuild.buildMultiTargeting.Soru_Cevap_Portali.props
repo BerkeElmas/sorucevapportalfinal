@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Soru_Cevap_Portali.props" />
+</Project>

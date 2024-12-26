@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\admin\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\admin\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\question\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\question\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\question\\myquestions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\question\\myquestions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\admin\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\admin\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\viewmodels\\questionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\viewmodels\\questionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\admin\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\admin\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\migrations\\20241225095856_initializemig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\migrations\\20241225095856_initializemig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|c:\\users\\2024\\downloads\\soru_cevap_portali\\soru_cevap_portali\\migrations\\20241225095856_initializemig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA35709-0338-4455-9F7F-37AC62AC9403}|Soru_Cevap_Portali\\Soru_Cevap_Portali.csproj|solutionrelative:soru_cevap_portali\\migrations\\20241225095856_initializemig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 315,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:59:01.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:54:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyQuestions.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Question\\MyQuestions.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Question\\MyQuestions.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Question\\MyQuestions.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Question\\MyQuestions.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:27:07.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:08:17.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Controllers\\UserController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAADwvzwBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:52:14.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\appsettings.Development.json",
+              "RelativeToolTip": "Soru_Cevap_Portali\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T13:22:19.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:37:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:37:35.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:09:28.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Todo.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Todo.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Admin\\Todo.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Todo.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Admin\\Todo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:07:25.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Question\\Index.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Question\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Question\\Index.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Question\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:01:20.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Info.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Admin\\Info.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\Info.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Admin\\Info.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAG0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:53:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Models\\SeedData.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:24:05.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Models\\Question.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:01:14.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\UserPage.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Admin\\UserPage.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Admin\\UserPage.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Admin\\UserPage.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:20:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwFgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:56:16.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestionModel.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\ViewModels\\QuestionModel.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\ViewModels\\QuestionModel.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\ViewModels\\QuestionModel.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\ViewModels\\QuestionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:09:20.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnswerController.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\AnswerController.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Controllers\\AnswerController.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Controllers\\AnswerController.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Controllers\\AnswerController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:58:08.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAYwKMBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:58:17.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Program.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Program.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Program.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAF8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:58:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:58:59.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241225095856_InitializeMig.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.Designer.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.Designer.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.Designer.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.Designer.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAYwKYBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:58:07.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241225095856_InitializeMig.cs",
+              "DocumentMoniker": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.cs",
+              "RelativeDocumentMoniker": "Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.cs",
+              "ToolTip": "C:\\Users\\2024\\Downloads\\Soru_Cevap_Portali\\Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.cs",
+              "RelativeToolTip": "Soru_Cevap_Portali\\Migrations\\20241225095856_InitializeMig.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAYwEIBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:58:03.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

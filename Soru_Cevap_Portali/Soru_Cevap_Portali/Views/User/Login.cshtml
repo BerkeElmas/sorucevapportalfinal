@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Register";
+
+
+}
+@model LoginModel
+
+
+<div class="container my-5">
+    <div class="card shadow-lg border-0">
+        <div class="row g-0">
+            <!-- Left Image Section -->
+            <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                <div class="h-100 w-100 overflow-hidden">
+                    <img class="img-fluid w-100 h-100 object-cover" src="~/Photos/backgroundRegister.jpeg" alt="Login Background">
+                </div>
+            </div>
+
+            <!-- Form Section -->
+            <div class="col-lg-6">
+                <div class="p-5">
+                    <h1 class="h4 text-center text-primary mb-4">Welcome Back!</h1>
+                    <form class="user" method="post" action="Login">
+                        <div class="form-group mb-3">
+                            <input type="text" class="form-control form-control-user"
+                                   asp-for="EmailOrName"
+                                   placeholder="Enter Email Or Username...">
+                        </div>
+                        <div class="form-group mb-3">
+                            <input type="password" class="form-control form-control-user"
+                                   asp-for="Password" value="Abc.123" placeholder="Password">
+                        </div>
+                        <div class="form-group mb-3">
+                            <div class="custom-control  small">
+                                <input type="checkbox" class="custom-control-input" id="customCheck">
+                                Beni Hatırla.
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-user btn-block">
+                            Login
+                        </button>
+                        <hr>    
+                        
+                    </form>
+                    <hr>
+                    <div class="text-center">
+                        <a class="small" href="forgot-password.html">Forgot Password?</a>
+                    </div>
+                    <div class="text-center">
+                        <a class="small" href="register.html">Create an Account!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

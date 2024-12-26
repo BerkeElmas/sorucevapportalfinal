@@ -1,0 +1,64 @@
+﻿@if (User.Identity.IsAuthenticated)
+{
+    //navbar-collapse collapse d-sm-inline-flex justify-content-between
+    <div class=" container-fluid">
+        <ul class="navbar-nav flex-grow-1">
+            <li class="nav-item">
+                <a class="nav-link text-white" href="/Question/Index">Ana Sayfa</a>
+            </li>
+           
+            
+            <li class="nav-item">
+                <a class="nav-link text-white" asp-area="" asp-controller="Question" asp-action="Create">
+                    | &emsp;Soru Ekle
+                </a>
+            </li>
+
+        </ul>
+    </div>
+    <ul class="navbar-nav ms-auto">
+        
+        <li class="nav-item dropdown Logined ">
+
+            <a class="nav-link text-dark dropdown-toggle text-white" href="#" id="UserName" role="button" data-bs-toggle="dropdown" aria-expanded="false">@User.Identity.Name</a>
+
+            <ul class="dropdown-menu dropdown-menu-end dropdown-menu-dark " aria-labelledby="UserName">
+                <li> <a class="dropdown-item" href="/User/UserPage"> Hesabım</a></li>
+                <li> <a class="dropdown-item" href="/Question/MyQuestions">Sorularım</a></li>
+                <li> <a class="dropdown-item" href="/Answer/MyAnswers"> Cevaplarım</a></li>
+
+                <li> <a class="dropdown-item " data-bs-toggle="modal" data-bs-target="#logoutModal" href="#"> <i class="bi bi-box-arrow-right"></i> Güvenli Çıkış </a></li>
+
+            </ul>
+
+        </li>
+    </ul>
+
+
+}
+else
+{
+
+    var user = Context.User;
+
+    <div class=" container-fluid">
+        <ul class="navbar-nav flex-grow-1">
+            <li class="nav-item">
+                <a class="nav-link text-white" href="/Question/Index">Ana Sayfa</a>
+            </li>
+
+
+        </ul>
+    </div>
+
+    <ul class="navbar-nav ms-auto ">
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-area="" asp-controller="User" asp-action="Login">Oturum&nbspAç</a>
+        </li>
+
+        <li class="nav-item">
+
+            <a class="nav-link text-white" asp-area="" asp-controller="User" asp-action="Register">Kayıt&nbspOl</a>
+        </li>
+    </ul>
+}
